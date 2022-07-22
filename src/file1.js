@@ -1,2 +1,2 @@
 console.log('file.js')
-console.log('file versiom 1')
+console.log('file versiom 2')
